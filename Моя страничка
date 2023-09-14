@@ -57,7 +57,7 @@
 					<div class="col-md-4">
 <!-- img - тег для вставки изображений. Мы использовали атрибут style, чтобы задать размер изображения и ширину рамки-->
 <!-- Измените URL на URL вашей фотографии, а также настройте размер изображения -->
-<img src="https://sun9-14.userapi.com/impg/9lEOFsaTmnVVIN9MVVd4Fr3X0SNLP5KW1-uDuw/-xJO3-ATvOg.jpg?size=810x1080&quality=95&sign=65c7d93c0d884c6d7809554a514b121c&type=album" style="height:320px; margin:20px 20px 40px 20px; " >
+<img src="моефото.jpg " >
 					</div>
 				</div>
 			</div>
